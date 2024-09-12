@@ -18,7 +18,7 @@ Este manual descreve os passos necessários para rodar o projeto localmente. Sig
 
 ## Pré-requisitos
 
-- [Node.js](https://nodejs.org/) instalado (recomenda-se a versão LTS)
+- [Node.js](https://nodejs.org/) instalado (recomenda-se a versão LTS 20.16.0)
 - [Docker](https://www.docker.com/) instalado e em execução
 
 ## Passos para Rodar o Projeto
